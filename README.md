@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>MLHC PLN - Employee Profile</title>
+  <title>UIW NTT DALAM DATA</title>
   <style>
     html, body { margin: 0; padding: 0; height: 100%; }
     iframe { border: 0; width: 100%; height: 100vh; display: block; }
