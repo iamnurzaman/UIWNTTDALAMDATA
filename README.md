@@ -11,7 +11,7 @@
 </head>
 <body>
   <iframe
-    src="https://script.google.com/macros/s/AKfycbzRSeWz1GtYQaPhW9U76L9tLY3D4WjqFLPvDfyH3w6HppoYFx46gzLm3kK6BPD0mp20kQ/exec"
+    src="https://script.google.com/macros/s/AKfycbwSj4K8lIY3PeoP1QqQrD1hvxuybisWLEFLYMZF9PYOu8efQOK4X4k0kvmDya6ypQbeMQ/exec"
     allow="camera; clipboard-write">
   </iframe>
 </body>
